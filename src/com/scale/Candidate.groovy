@@ -3,6 +3,6 @@ package com.scale
 class Candidate {
     int iD
     String position
-    String positionCategory
+    String category
     int yearsExperience
 }
