@@ -1,7 +1,7 @@
 package com.scale
 
 class Company {
-    int ID
-    String position
+    int iD
+    String[] positions
     String positionCategory
 }

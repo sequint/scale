@@ -1,7 +1,7 @@
 package com.scale
 
 class Candidate {
-    int ID
+    int iD
     String position
     String positionCategory
     int yearsExperience
