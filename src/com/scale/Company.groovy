@@ -2,6 +2,6 @@ package com.scale
 
 class Company {
     int iD
-    String[] positions
-    String[] categories
+    String positions = []
+    String categories = []
 }
